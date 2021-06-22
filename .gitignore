@@ -2,3 +2,6 @@
 .DS_Store
 __pycache__
 bootstrap.css
+bootstrap.js
+jquery-3.6.0.min.js
+jquery-3.6.0.js
